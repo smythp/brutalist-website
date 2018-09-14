@@ -1,0 +1,16 @@
+body {
+    margin-left: 10%;
+    margin-right:10%;
+}
+
+nav {
+    list-style-type: none;
+    padding: 5px;
+    border:solid;
+    background-color: #d3d3d3;
+}
+
+nav li {
+    display: inline;
+    margin-right:10px;
+}
